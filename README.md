@@ -1,7 +1,7 @@
 ## Olá, eu sou Gabriel Botelho 👋:man_technologist: 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsbotelho&show_icons=true&theme=dark) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsbotelho&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsbotelho&show_icons=true&theme=dark) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsbotelho&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Sobre mim :raising_hand_man:
 > :round_pushpin: Sou da Paraíba <br>
