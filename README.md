@@ -1,7 +1,7 @@
 ## Olá, eu sou Gabriel Botelho 👋:man_technologist: 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsbotelho&show_icons=true&theme=dark) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsbotelho&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsbotelho&show_icons=true&theme=dark) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsbotelho&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Sobre mim :raising_hand_man:
 > :round_pushpin: Sou da Paraíba <br>
@@ -44,6 +44,8 @@
 **GabrielSBotelho/gabrielsbotelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 email: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsbotelho&show_icons=true&theme=dark) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsbotelho&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
