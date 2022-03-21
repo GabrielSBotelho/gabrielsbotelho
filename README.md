@@ -38,7 +38,7 @@
 
 [![Exploratory Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsbotelho&repo=Apartment-rental-offers-in-Germany&theme=dark)](https://github.com/GabrielSBotelho/Apartment-rental-offers-in-Germany) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Automatic NLU Generater](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsbotelho&repo=Automatic-NLU-Generator&theme=dark)](https://github.com/GabrielSBotelho/Automatic-NLU-Generator)
 
-[![Automatic NLU Generater](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsbotelho&repo=Mineracao-de-dados&theme=dark)](https://github.com/GabrielSBotelho/Mineracao-de-dados)
+[![Mineração de Dados](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsbotelho&repo=Mineracao-de-dados&theme=dark)](https://github.com/GabrielSBotelho/Mineracao-de-dados) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Random Forest](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsbotelho&repo=Random-Forest&theme=dark)](https://github.com/GabrielSBotelho/Random-Forest)
 
 <!--
 **GabrielSBotelho/gabrielsbotelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
