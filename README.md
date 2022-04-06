@@ -40,6 +40,8 @@
 
 [![Mineração de Dados](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsbotelho&repo=Mineracao-de-dados&theme=dark)](https://github.com/GabrielSBotelho/Mineracao-de-dados) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Random Forest](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsbotelho&repo=Random-Forest&theme=dark)](https://github.com/GabrielSBotelho/Random-Forest)
 
+[![K-Means](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsbotelho&repo=K-Means&theme=dark)](https://github.com/GabrielSBotelho/K-Means) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![K-Nearest-Neighbor](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsbotelho&repo=K-Nearest-Neighbor&theme=dark)](https://github.com/GabrielSBotelho/K-Nearest-Neighbor) 
+
 <!--
 **GabrielSBotelho/gabrielsbotelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
